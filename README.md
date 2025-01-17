@@ -1,2 +1,1 @@
-# Spotify-Clone
-This is a clone website of Spotify
+This is my first React based project
